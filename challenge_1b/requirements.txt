@@ -1,0 +1,2 @@
+PyMuPDF==1.23.7
+python-Levenshtein==0.25.1
